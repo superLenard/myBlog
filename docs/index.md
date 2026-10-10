@@ -9,6 +9,11 @@
 <span class="card-desc">持续学习 AI 大模型技术，研究模型原理、微调、推理部署，沉淀实践笔记</span>
 </a>
 
+<a class="card-item card-primary" href="https://superlenard.github.io/AINews/" target="_blank" rel="noopener noreferrer">
+<div class="card-icon">📰 AINews</div>
+<span class="card-desc">专注追踪全球人工智能前沿动态，聚焦大模型、算力、产业商业化、行业政策等方向</span>
+</a>
+
 <!-- 新增站点模板，复制即可
 <a class="card-item card-secondary" href="https://superlenard.github.io/semi-notes/" target="_blank" rel="noopener noreferrer">
 <div class="card-icon">📗</div>

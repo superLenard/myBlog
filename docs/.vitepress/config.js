@@ -26,6 +26,11 @@ export default defineConfig({
     outline: {
       label: '本章目录'
     },
+    // 底部分页文案
+    docFooter: {
+      prev: '上一页',
+      next: '下一页'
+    },
     // nav: [
     //   { text: '首页', link: '/' },
     //   { text: '知识库', link: '/knowledge/' },
@@ -40,7 +45,7 @@ export default defineConfig({
         text: '📚︎ 知识库',
         items: [
           { text: 'LearnAI 笔记', link: 'https://superlenard.github.io/learnAI/' },
-          // { text: '编程笔记', link: '/knowledge/code' },
+          { text: 'AI 实时资讯', link: 'https://superlenard.github.io/AINews/' },
           // { text: '阅读笔记', link: '/knowledge/reading' }
         ]
       },
