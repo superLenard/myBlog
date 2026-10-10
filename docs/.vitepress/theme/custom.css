@@ -236,6 +236,8 @@ body {
   border-radius: var(--site-card-radius);
   background: var(--site-card-bg);
   text-decoration: none !important;
+  cursor: pointer;
+  pointer-events: auto;
   backdrop-filter: blur(18px) saturate(1.1);
   -webkit-backdrop-filter: blur(18px) saturate(1.1);
   transition:
@@ -243,6 +245,11 @@ body {
     box-shadow 0.4s ease,
     border-color 0.4s ease,
     background 0.4s ease;
+}
+
+.card-item::before,
+.card-item::after {
+  pointer-events: none;
 }
 
 .card-item::before {
