@@ -50,7 +50,7 @@ export default defineConfig({
       {
         text: '📚︎ 知识库',
         items: [
-          { text: 'LearnAI 笔记', link: 'https://superlenard.github.io/learnAI/' },
+          { text: 'learnAI 笔记', link: 'https://superlenard.github.io/learnAI/' },
           { text: 'AI 实时资讯', link: 'https://superlenard.github.io/AINews/' },
           // { text: '阅读笔记', link: '/knowledge/reading' }
         ]
