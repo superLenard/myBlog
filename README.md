@@ -4,7 +4,7 @@
 > 所有内容均为个人学习过程中的整理与复盘，旨在记录知识、沉淀思路，也欢迎同好交流探讨。
 
 ## 🔗 在线站点
-👉 https://superlenard.github.io/mybBog/
+👉 https://superlenard.github.io/myBlog/
 
 ## 📚 笔记导航
 - [AI学习笔记](https://superlenard.github.io/learnAI/)
