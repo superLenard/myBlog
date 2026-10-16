@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   // 站点基础路径，必须和仓库名一致！
-  base: '/myblog/',
+  base: '/myBlog/',
   title: "Lenard的博客",
   description: "个人知识聚合门户，学习笔记、项目实践、资源存档",
   lang: 'zh-CN',
@@ -14,8 +14,8 @@ export default defineConfig({
   },
   // 页面头部元信息
   head: [
-    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/myblog/favicon.svg' }],
-    ['link', { rel: 'icon', type: 'image/x-icon', href: '/myblog/favicon.ico' }]
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/myBlog/favicon.svg' }],
+    ['link', { rel: 'icon', type: 'image/x-icon', href: '/myBlog/favicon.ico' }]
   ],
 
   // 顶部导航栏
